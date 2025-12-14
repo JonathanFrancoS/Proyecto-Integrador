@@ -80,7 +80,7 @@ Proyecto-Integrador/
 Debido a las restricciones de tamaño de GitHub, el video demostrativo del proyecto se encuentra alojado en Google Drive:
 
 🔗 **Ver video del proyecto:**
-[https://drive.google.com/file/d/1kqV60Y4plVaHTCP_qMl5tWBVCB27JamY/view](https://drive.google.com/file/d/1kqV60Y4plVaHTCP_qMl5tWBVCB27JamY/view)
+[▶️ Video de presentación del proyecto](https://drive.google.com/file/d/1kqV60Y4plVaHTCP_qMl5tWBVCB27JamY/view)
 
 En el video se evidencia:
 
