@@ -1,0 +1,43 @@
+######################################
+# SISTEMA
+######################################
+.DS_Store
+Thumbs.db
+
+######################################
+# EDITORES
+######################################
+.vscode/
+.idea/
+
+######################################
+# VARIABLES DE ENTORNO
+######################################
+.env
+.env.*
+!.env.example
+
+######################################
+# DOCKER - VOLUMENES (CRITICO)
+######################################
+
+# IGNORAR TODA LA BASE DE DATOS
+proyecto-ghost/compose/db/
+
+# IGNORAR TODOS LOS DATOS DE GHOST
+proyecto-ghost/compose/ghost/data/
+proyecto-ghost/compose/ghost/files/
+proyecto-ghost/compose/ghost/images/
+proyecto-ghost/compose/ghost/logs/
+proyecto-ghost/compose/ghost/media/
+proyecto-ghost/compose/ghost/public/
+proyecto-ghost/compose/ghost/settings/
+proyecto-ghost/compose/ghost/themes/
+
+######################################
+# LOGS Y BACKUPS
+######################################
+*.log
+*.sql
+*.dump
+*.bak
